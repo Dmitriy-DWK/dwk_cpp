@@ -1,0 +1,12 @@
+
+node_modules/
+
+
+*.sass
+bin/
+admin/
+config/
+
+
+.vs/
+
